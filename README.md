@@ -1,1 +1,1 @@
-Tôi là NGUYỄN THANH THIỆT, MSSV: 225990.
+Đây là README từ nhánh Main
